@@ -17,8 +17,7 @@ Under the fast root.
 
 3. Build fastr
 
-Return to the vt_lr root.
-
+% ./autogen.sh
 % ./configure --with-bamtools=./bamtools
 % make
 
